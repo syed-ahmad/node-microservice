@@ -1,0 +1,19 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "A quick start guide for developing micro services with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-ahmad/node-microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-ahmad/node-microservice/issues"
+  },
+  "homepage": "https://github.com/syed-ahmad/node-microservice#readme"
+}
